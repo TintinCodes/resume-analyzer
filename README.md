@@ -1,2 +1,4 @@
 # resume-analyzer
-Resume Analyzer 
+A helpful RAG based AI Tool for all those who are struggling to compare resumes with job descriptions. Whether you are a HR, student or someone looking for a job. This tool can be very helpful for all. Simply upload the resume, enter job description and hit "Analyze Resume" and TADAAAAA. Your match score, matched skills, missing skills and professional experience details are all available in a concise and well formated manner. Moreover, it is providing you the detailed explaination of it. This is not it, you can direct ask chat and do a questionaire to get information according to your will.
+
+Highlights: Python, RAG, Langchain, FAISS, Streamlit, Groq
